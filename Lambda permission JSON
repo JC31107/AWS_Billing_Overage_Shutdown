@@ -8,7 +8,6 @@
                 "ec2:DescribeInstances",
                 "sns:Subscribe",
                 "ec2:StopInstances",
-                "sqs:*"
             ],
             "Resource": "*"
         },
